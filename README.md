@@ -58,3 +58,19 @@ The metrics treat portfolio weights as constant (as with daily rebalancing), and
 ## Limitations
 
 This project is educational, not financial advice. Historical estimates change across time periods; future returns and correlations may differ. Portfolio volatility does not describe all forms of financial risk.
+
+## Visual overview
+
+The allocation chart uses the exact weights in the script. **The risk-return and correlation visuals are illustrative examples, not calculated from current market data.** Run the Python project to obtain actual historical metrics.
+
+### Portfolio weights
+
+![Portfolio allocations](assets/portfolio_allocations.svg)
+
+### Risk and return
+
+![Illustrative risk-return comparison](assets/portfolio_risk_return.svg)
+
+### Stock correlations
+
+![Illustrative correlation heatmap](assets/stock_correlation_heatmap.svg)
